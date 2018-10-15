@@ -1,0 +1,19 @@
+<svg width="202" height="126" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="128" width="204" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="13" rx="16" id="svg_1" cy="28.75" cx="16" stroke-width="1.5" fill="#A0D58A"/>
+  <ellipse ry="26" rx="28" id="svg_2" cy="90.75" cx="69" stroke-width="1.5" fill="#FFFA8D"/>
+  <ellipse stroke="null" ry="22" rx="25" id="svg_3" cy="22.75" cx="90" stroke-width="1.5" fill="#6D97AB"/>
+  <ellipse ry="18.5" rx="18.5" id="svg_4" cy="48.25" cx="182.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#62612C"/>
+  <ellipse stroke="null" ry="19.999999" rx="23" id="svg_5" cy="104.749999" cx="153" stroke-opacity="null" stroke-width="1.5" fill="#894F3F"/>
+  <text font-weight="bold" stroke="null" transform="matrix(1.559497050859744,0,0,1.416768431663513,-245.27310996235656,-43.17368826083839) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="24" id="svg_6" y="84.5" x="179.5" stroke-opacity="null" stroke-width="0" fill="#33666C">MARC</text>
+ </g>
+</svg>
